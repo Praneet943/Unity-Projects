@@ -1,0 +1,7 @@
+
+This project contains the code for the first Unity project I made. The project is a car game where the user goes around the track and there is a lap counting mechanism 
+where each time the user crosses the finish line, the laps increment, there is also a mechanism to make sure that the user goes fully around the course and does not cheat.
+
+CarMoving.cs is the main car controller which controls the car's movements.
+
+HalfwayTrigger.cs and LineCrossed.cs are code for making sure the user does not cheat by using shortcuts.
