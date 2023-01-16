@@ -1,0 +1,3 @@
+This project was developed during the official Unity programming course. It is a game where a player has to shoot the random animals incoming with food. PlayerController 
+controls the player's movements, SpawnManager controlls the animals and how they will spawn, DetectCollisions will check if an animal was hit by food and destory the animal
+if it was hit, DestroyOutOfBounds will destroy animals that go out of bounds, MoveForward will move the animals

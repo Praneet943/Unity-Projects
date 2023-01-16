@@ -1,0 +1,2 @@
+This project was developed during the official Unity programming course. It is being able to move a car and turn. The player controller file has the code for moving the car 
+and the follow player code has the code for the camera to follow the car.

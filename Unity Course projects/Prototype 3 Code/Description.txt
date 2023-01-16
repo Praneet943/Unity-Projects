@@ -1,0 +1,3 @@
+This project was developed during the official Unity programming course. It is a game where a player runs and has to jump over obstacles, if the player hits any of them, it
+is game over. PlayerController will control the plater, RepeatingBackground will repeat the backround so it looks like the background keeps on going as the game plays out.
+SpawnManager will spawn the obstacles, MoveLeft will stop the background from moving if the game is over.

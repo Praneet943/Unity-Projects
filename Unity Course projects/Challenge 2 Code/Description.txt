@@ -1,0 +1,3 @@
+This project was developed during the official Unity programming course. It is a game where a player has to spawn dogs to chase a ball that is randomly dropped. PlayerControllerX
+Controls the player, SpawnManagerX controlls the spawning of balls, MoveForwardX controls the movements of the dog, DetectCollisionsX will check if the dog got the ball,
+DestroyOutOfBounds will destroy anything that goes out of bounds

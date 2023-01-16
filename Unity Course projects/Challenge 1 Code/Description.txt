@@ -1,0 +1,3 @@
+This project was developed during the official Unity programming course. It is being able to move a plane through obstacles. 
+PlayerControllerX will move the plane, FollowPlayerX will make the camera follow the plane, Spin.cs will make the propeller spin
+for realistic looks.
